@@ -21,6 +21,10 @@
 =====================
 3d фигура в цвете
 
+[Лабораторная работа №8](https://github.com/SerdukovaM/Computer-Graphics-5-semester-/tree/main/LR8)
+=====================
+Фильтр Собеля
+
 [С НОВЫМ ГОДОМ!](https://github.com/SerdukovaM/Computer-Graphics-5-semester-/tree/main/%D0%A1%20%D0%9D%D0%9E%D0%92%D0%AB%D0%9C%20%D0%93%D0%9E%D0%94%D0%9E%D0%9C!)
 =====================
 Анимированная 3d елочка
